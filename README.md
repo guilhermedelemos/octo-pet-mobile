@@ -1,6 +1,4 @@
-# octo_pet
-
-A new Flutter project.
+# Octo Pet App
 
 ## Getting Started
 

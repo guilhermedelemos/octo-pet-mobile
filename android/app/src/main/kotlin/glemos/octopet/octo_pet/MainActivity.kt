@@ -1,4 +1,4 @@
-package octopet.octo_pet
+package glemos.octopet.octo_pet
 
 import io.flutter.embedding.android.FlutterActivity
 

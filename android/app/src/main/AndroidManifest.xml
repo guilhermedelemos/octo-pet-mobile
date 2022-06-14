@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="octopet.octo_pet">
+    package="glemos.octopet.octo_pet">
    <application
         android:label="octo_pet"
         android:name="${applicationName}"
